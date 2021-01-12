@@ -1,13 +1,16 @@
 nav:
-  - title: "Services"
-    section: services
+  - title: "Home"
+    section: home
 
-  - title: "Portfolio"
-    section: portfolio
+  - title: "News&Press"
+    section: recent news and press
     
-  - title: "About"
-    section: timeline
-
+  - title: "Education&Experience"
+    section: education&experience
+    
+  - title: "Publications"
+    section: publications
+    
   - title: "Team"
     section: team
 
