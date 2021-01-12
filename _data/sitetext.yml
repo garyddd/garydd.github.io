@@ -1,8 +1,8 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to ZJ Lab!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#home" # "#{section}" or "URL/page link"
 
 home:
     title: "Home"
