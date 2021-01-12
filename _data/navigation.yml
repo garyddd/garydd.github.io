@@ -1,16 +1,16 @@
 nav:
   - title: "Home"
-    section: home
+    section: first
 
   - title: "News&Press"
     section: recent news and press
-    
+
   - title: "Education&Experience"
     section: education&experience
-    
+
   - title: "Publications"
     section: publications
-    
+
   - title: "Team"
     section: team
 
